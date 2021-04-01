@@ -15,7 +15,7 @@ Rare is a publishing platform and social application that allows authenticated u
  
 ### Pull down the Client-Side Repo. 
  
->Note: This project is meant to run simultaneously with the Server-Side Repo found here: https://github.com/nss-day-cohort-44/rare-server-rabid-sharks*  
+>Note: This project is meant to run simultaneously with the Server-Side Repo found here: https://github.com/krsteele/rare-rest-api-rare-vicious-blizzards*  
 >Depending on which repo you start with, you may already have the following directories set up. 
 >This project requires Python
  
@@ -36,7 +36,7 @@ Rare is a publishing platform and social application that allows authenticated u
 
 4.   Enter the following commands: 
 
-```git clone git@github.com:nss-day-cohort-44/rare-rabid-sharks.git .```        _note the single dot preceded by a single space_
+```git clone git@github.com:krsteele/rare-client-vicious-blizzards.git .```        _note the single dot preceded by a single space_
 		
 ```npm install``` 
  
