@@ -46,15 +46,27 @@ Rare is a publishing platform and social application that allows authenticated u
 This application was built using the React JavaScript library, and was bootstrapped with create-react-app. The only package used in the production site outside of those provided by create-react-app was react-router-dom.
 The API server is powered by SQLite, watchgod and Python.
 All styling was accomplished with vanilla CSS3 written by us.
+
 ## **Planning Resources**
 Below is the planning document we created before implementing this project. This resource proved to be valuable during development as it constantly gave us a guide to what needed to happen and in which chronology. The completed project bore a striking similarity to our plan.
 
 ![RareServerERD.png](RareServerERD.png)
  
-## **Authors**
-Kyle Simmons
-Alan Andrusky
-Danny McCracken
-Benjamin Schweizer
-Silas Lowe
+# Contributors
+  
+[Alan Andrusky](https://github.com/aandrusky)  
+
+[Charlie Butterworth](https://github.com/CharlieButterworth)  
+
+[Suganya](https://github.com/Suganya-dev)  
+
+[Silas Lowe](https://github.com/silaslowe)
+
+[Danny McCracken](https://github.com/dmccracken13)
+
+[Ben Schweiz](https://github.com/bschweiz)
+
+[Kyle Simmons](https://github.com/KyleSimmonsC44)
+
+[Kristen Steele](https://github.com/krsteele) 
 
