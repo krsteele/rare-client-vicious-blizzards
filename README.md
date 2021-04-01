@@ -58,7 +58,7 @@ Below is the planning document we created before implementing this project. This
 
 [Charlie Butterworth](https://github.com/CharlieButterworth)  
 
-[Suganya](https://github.com/Suganya-dev)  
+[Suganya Prakash](https://github.com/Suganya-dev)  
 
 [Silas Lowe](https://github.com/silaslowe)
 
