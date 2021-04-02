@@ -52,13 +52,13 @@ Below is the planning document we created before implementing this project. This
 
 ![RareServerERD.png](RareServerERD.png)
  
-# Contributors
+## **Contributors**
   
 [Alan Andrusky](https://github.com/aandrusky)  
 
 [Charlie Butterworth](https://github.com/CharlieButterworth)  
 
-[Suganya Prakash](https://github.com/Suganya-dev)  
+[Suganya chandraraj](https://github.com/Suganya-dev)  
 
 [Silas Lowe](https://github.com/silaslowe)
 
